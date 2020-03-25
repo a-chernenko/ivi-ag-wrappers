@@ -1,2 +1,2 @@
-# ivi_ag_wrappers
+# ivi-ag-wrappers
 C++ wrappers for IVI-C drivers
